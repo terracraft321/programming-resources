@@ -647,3 +647,24 @@ completion,” he told me, and kept at it until my problem was resolved.90
 So what assessment techniques do we use?
 The goal of our interview process is to predict how c"
 
+-
+Always check the documentation
+Ask for help
+Break problems into smaller parts
+Draw, write everything you know down
+Search on StackOverflow
+Take a break and come back to the problem later, but don't give it up in your mind.
+Pomodoro Technique
+Brain.fm for music when working. 
+-
+Grow your network
+Note people you work with 
+Keep a planner, schedule your time.
+Use spaced repetition and active learning
+-
+Sit down and just do the work
+See Steven Pressfields books for more.
+-
+Make projects, always keep learning. Schedule time for it, block distractions.
+Atomic Habits
+Know internal vs external motivations.
