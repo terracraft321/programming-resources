@@ -234,3 +234,32 @@ writes about how to maximize the productivity of software teams and
 provides detailed write-ups of common programming patterns.
 http://pgbovine.net/. Philip Guo, a computer science professor, has written
 extensively and openly about his graduate school and work experiences
+
+
+
+https://sv.wikipedia.org/wiki/Tidskomplexitet#/media/Fil:Comparison_computational_complexity.svg
+Tidskomplexitet
+Inom datavetenskapen är tidskomplexitet beräkningskomplexiteten för en algoritm mätt i tid.
+Tidskomplexitet beräknas genom att man estimerar tidskostnaden för de elementära operationer som krävs i en algoritm. Vanligtvis beror antalet steg på hur stort problemstorleken är, det vill säga indatastorlek, varför man uttrycker tidskomplexitet som en...
+Tidskomplexitet
+https://www.csc.kth.se/utbildning/kth/kurser/DD1340/inda09/algorithms/tidskomplexitet/
+https://programming.guide/
+Programming.Guide
+Programming Guide provides concise articles with production-quality code examples written by expert programmers.
+https://yourbasic.org/about/
+About
+This is where Stefan Nilsson writes about coding, algorithms, data structures and Go.
+About
+https://www.sluholding.se/en/forskare-blog/374-laerarundantaget-academic-staff-s-intellectual-property-rights
+TEACHERS´ EXEMPTION (LÄRARUNDANTAGET ) - Academic staff’s intellect...
+LÄRARUNDANTAGET - Academic staff’s intellectual property rights
+https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/
+Joel on Software
+Joel Spolsky
+The Joel Test: 12 Steps to Better Code
+Have you ever heard of SEMA? It’s a fairly esoteric system for measuring how good a software team is. No, wait! Don’t follow that link! It will take you about six years just to understa…
+Image
+http://www.netmeg.net/
+The Computer Jargon Dictionary
+Computer Jargon Dictionary
+https://www.joelonsoftware.com/2007/10/26/evidence-based-scheduling/
