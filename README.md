@@ -342,7 +342,7 @@ senior, team
 principle, industry
 SUCCESS
 -116 OS book
-Terracraft — 07/24/2021
+— 07/24/2021
 write or tools that you build. Here are some strategies:
 Avoid one-person teams.
 Review each other’s code and software designs.
@@ -368,7 +368,7 @@ data structures
 algorithms
 grokking algorithms
 --> data structures
-Terracraft — 10/05/2021
+— 10/05/2021
 Programming Interview Exposed
 Cracking The Coding Interview
 
