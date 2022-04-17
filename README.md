@@ -263,3 +263,416 @@ http://www.netmeg.net/
 The Computer Jargon Dictionary
 Computer Jargon Dictionary
 https://www.joelonsoftware.com/2007/10/26/evidence-based-scheduling/
+
+
+https://dev.to/
+
+https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397
+
+Cherno on youtube
+
+
+https://www.youtube.com/watch?v=Zc54gFhdpLA&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=2
+
+
+https://karadev.net/uroci/filespdf/files/a%20book%20on%20c.pdf
+https://en.wikipedia.org/wiki/The_C_Programming_Language
+The C Programming Language
+The C Programming Language (sometimes termed K&R, after its authors' initials) is a computer programming book written by Brian Kernighan and Dennis Ritchie, the latter of whom originally designed and implemented the language, as well as co-designed the Unix operating system with which development of the language was closely intertwined. The boo...
+The C Programming Language
+https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628
+https://www.google.com/search?q=operating+system+design+and+implementation+book&oq=operating+system+design+and+implementation+book&aqs=chrome..69i57j0i22i30l9.7982j0j7&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=moris+bach+the+design+of+the+unix+operating+system&oq=moris+bach+the+design+of+the+unix+operating+system&aqs=chrome..69i57j0i22i30.5423j0j7&sourceid=chrome&ie=UTF-8
+https://www.amazon.com/Design-UNIX-Operating-System/dp/0132017997
+http://160592857366.free.fr/joe/ebooks/ShareData/Design%20of%20the%20Unix%20Operating%20System%20By%20Maurice%20Bach.pdf
+Terracraft — 05/09/2021
+https://www.cs.helsinki.fi/u/kerola/tikra/s2000/luennot/transm_p2.pdf
+https://www.cs.helsinki.fi/u/kerola/artikkelit/crusoe/transmeta.html
+
+https://www.amazon.com/Senior-Software-Engineer-Practices-Effective/dp/0990702804
+The Senior Software Engineer: 11 Practices of an Effective Technica...
+The Senior Software Engineer: 11 Practices of an Effective Technical Leader: 9780990702801: Computer Science Books @ Amazon.com
+https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897/ref=pd_bxgy_img_2/136-9912945-1580412?pd_rd_w=21KsS&pf_rd_p=c64372fa-c41c-422e-990d-9e034f73989b&pf_rd_r=EJ03NDS31FDZ4GTKD9P7&pd_rd_r=a45dbd8a-325e-453b-b7c4-87cdb0aef076&pd_rd_wg=x0se3&pd_rd_i=1491973897&psc=1
+Amazon.com: The Manager's Path: A Guide for Tech Leaders Navigating...
+Amazon.com: The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change (9781491973899): Fournier, Camille: Books
+https://www.amazon.com/Software-Engineering-Google-Lessons-Programming/dp/1492082791/ref=pd_sbs_3/136-9912945-1580412?pd_rd_w=wx09O&pf_rd_p=3676f086-9496-4fd7-8490-77cf7f43f846&pf_rd_r=EJ03NDS31FDZ4GTKD9P7&pd_rd_r=a45dbd8a-325e-453b-b7c4-87cdb0aef076&pd_rd_wg=x0se3&pd_rd_i=1492082791&psc=1
+Software Engineering at Google: Lessons Learned from Programming Ov...
+Software Engineering at Google: Lessons Learned from Programming Over Time [Winters, Titus, Manshreck, Tom, Wright, Hyrum] on Amazon.com. *FREE* shipping on qualifying offers. Software Engineering at Google: Lessons Learned from Programming Over Time
+https://www.amazon.com/Staff-Engineer-Leadership-beyond-management/dp/1736417916/ref=pd_sbs_2/136-9912945-1580412?pd_rd_w=wx09O&pf_rd_p=3676f086-9496-4fd7-8490-77cf7f43f846&pf_rd_r=EJ03NDS31FDZ4GTKD9P7&pd_rd_r=a45dbd8a-325e-453b-b7c4-87cdb0aef076&pd_rd_wg=x0se3&pd_rd_i=1736417916&psc=1
+
+
+effective engineer, was a book about how to make the best use of your time as a engineer, use leverage to cause greater impact, support your team and you in the same process, be part of the success. Ease onboarding progress, how interview processe can be improved. What kind of problems should you tackle, when & how you should automate, the process vs decision making (batch scripts), running simple scripts regularly to catch problems early on. Have enough time to run scripts say 5-10 minutes. And do check ups with longer intervals.
+invest in the teams
+figure out UNIX commands
+get the fundamentals right, the core principles and basics, to speed up
+little improvement a day goes a long way
+don't overburden teams with more than 40 hours of work
+it decreases productivity over the long term
+be willing to give up in dire situations thus slow down, and learn from your mistakes
+learn how to allocate time properly for products
+break down the time
+do procedural rewrites/refactoring, instead of doing it all out at once. Best is to incorporate the old and the new at the same time.
+Working in teams, and in a company with more people there's more resources to tackle different problems of different sizes
+-
+peopleware
+team geek
+high output management
+getting things done
+the four hour work week
+the 7 habits of highly effective ppl
+Conscious, business, how to build value through values
+your brain at work, strageties for overcoming distraction, regaining focus, and working smarter all day
+flow the psychology of the optimal experience
+write or tools that you build. Here are some strategies:
+Avoid one-person teams.
+Review each other’s code and software designs.
+Rotate different types of tasks and responsibilities across the team.
+Keep code readable and code quality high.
+Present tech talks on software decisions and architecture.
+Document your software, either through high-level design documents or
+in code-level comments.
+Document the complex workflows or non-obvious workarounds necessary
+for you to get things done.
+Invest time in teaching and mentoring other team members.
+BUS FACTOR
+have a bus factor larger than 1
+it takes burden away from yourself and allows you do to do other things
+individual engineer - 
+senior, team
+principle, industry
+SUCCESS
+-116 OS book
+Terracraft — 07/24/2021
+write or tools that you build. Here are some strategies:
+Avoid one-person teams.
+Review each other’s code and software designs.
+Rotate different types of tasks and responsibilities across the team.
+Keep code readable and code quality high.
+Present tech talks on software decisions and architecture.
+Document your software, either through high-level design documents or
+in code-level comments.
+Document the complex workflows or non-obvious workarounds necessary
+for you to get things done.
+Invest time in teaching and mentoring other team members.
+Get familiar with UNIX (or Windows) shell commands. Being able to
+manipulate and process data with basic UNIX tools instead of writing a
+Python or Java program can reduce the time to complete a task from
+minutes down to seconds. Learn basic commands like , , , ,
+, , , and , all of which can be piped together to execute
+arbitrarily powerful transformations. Read through helpful documentation
+in the pages for a command if you’re not sure what it does. Pick up or
+bookmark some useful one-liners.
+2
+
+data structures
+algorithms
+grokking algorithms
+--> data structures
+Terracraft — 10/05/2021
+Programming Interview Exposed
+Cracking The Coding Interview
+
+https://simpleprogrammer.com/
+
+
+ruby on rails
+react
+angular
+js
+java
+springboot
+
+https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/
+
+Pragmatic Programmer
+Clean Code
+Design Patterns
+Modern Software Engineering
+The Art of COmputer Programming
+The Science of Devops
+Accelerate
+the C++
+the mythical man mouth
+refactoring
+team topologies 
+Domain Driven Design
+-
+The Pragmatic Programmer
+Clean Code
+Donald Knuth
+Domain Driven Design
+- The Beginning Of Infinity by DAvid Deutsch 
+Continious Dlivery
+....... Pragmatic Programmer.  I re-read it every year.  That and Michael Feathers book on legacy code.
+...
+The Phoenix Project" by Gene Kim
+"Unit testing: principles, practices and patterns" by Vladimir Khorikov
+The first is a "The C++ Programming Language" book - I used it a lot early on when learning programming and it used to be my dad's.  The second is a "Programming in Lua" book - it was the first software book that I really delved into, and Lua was the first language I really deeply learned, because I was adding it as a scripting language to my MUD (multiplayer text rpg).
+I am a student rn, and my first programming book was java by dietel and dietel, that belonged to my dad :)
+Code Complete, 2nd Edition by Steve McConnell)
+The Asshole Survival Guide: How to Deal with People Who Treat You Like Dirt", Penguin, 2018. -
+Terracraft — 01/01/2022
+: The Richest Man in Babylon by George Samuel Clason,
+ The Millionaire Fastlane by MJ DeMarco and The Simple Path to Wealth by JL Collins.
+The Richest man in Babylon, The greatest salesman in the world and The Monk who sold his ferrari is the package that doesn't leave a person the same if carefully listened and meditated upon. As TD Jakes said, " There is nothing more dangerous than a changed and a made up mind" this is treasure unfolded.
+I have found is The Prophet - book 
+how successful people think by John Maxwell
+’s the same way that it happened for Warren Buffett. He picked up knowledge from Graham’s books and then went to study under him.
+
+https://www.wired.com/2015/04/hire-like-google/
+Wired
+Here's Google's Secret to Hiring the Best People
+People tend to make snap judgments when they're interviewing job candidates. The problem is, these predictions from the first 10 seconds are useless.
+Here's Google's Secret to Hiring the Best People
+https://www.geeksforgeeks.org/google-interview-preparation-for-software-engineer-a-complete-guide/
+GeeksforGeeks
+Google Interview Preparation For Software Engineer - A Complete Gui...
+A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions.
+Image
+https://www.mtu.edu/career/students/networking/interviews/prepare.pdf
+In 1998, Frank Schmidt and John Hunter published a meta-analysis of 85 years of research on how well assessments predict performance. They looked at 19 different assessment techniques and found that typical, unstructured job interviews were pretty bad at predicting how someone would perform once hired.
+
+Unstructured interviews have an r2 of 0.14, meaning that they can explain only 14 percent of an employee’s performance. This is somewhat ahead of reference checks (explaining 7 percent of performance), ahead of the number of years of work experience (3 percent).
+
+The best predictor of how someone will perform in a job is a work sample test (29 percent). This entails giving candidates a sample piece of work, similar to that which they would do in the job, and assessing their performance at it. Even this can’t predict performance perfectly, since actual performance also depends on other skills, such as how well you collaborate with others, adapt to uncertainty, and learn.
+
+Expand
+message.txt
+14 KB
+https://www.wired.com/2015/04/hire-like-google/
+Wired
+Here's Google's Secret to Hiring the Best People
+People tend to make snap judgments when they're interviewing job candidates. The problem is, these predictions from the first 10 seconds are useless.
+Here's Google's Secret to Hiring the Best People
+https://www.geeksforgeeks.org/google-interview-preparation-for-software-engineer-a-complete-guide/
+GeeksforGeeks
+Google Interview Preparation For Software Engineer - A Complete Gui...
+A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions.
+Image
+https://www.mtu.edu/career/students/networking/interviews/prepare.pdf
+https://rework.withgoogle.com/guides/hiring-use-structured-interviewing/steps/introduction/
+re:Work -  Guide: Use structured interviewing
+Using consistent questions and grading rubrics can improve the candidate experience and be predictive of future performance.
+Image
+https://hiring.workopolis.com/article/what-google-has-learned-about-hiring/
+Workopolis Hiring
+6 hiring lessons from Google that every small business needs to kno...
+Google's recruitment tactics are as renowned as its nap pods. Take your SMB hiring up a notch – or higher – with these six hiring lessons from Google.
+Image
+https://www.businessinsider.com/google-laszlo-bock-interview-questions-2015-4?r=US&IR=T
+Business Insider
+Google HR boss says asking these questions will instantly improve y...
+The US Department of Veterans Affairs has created an extensive list of interview questions any company can use.
+Google HR boss says asking these questions will instantly improve y...
+04/15/2015
+https://www.va.gov/PBI/Questions.asp
+VA.gov | Veterans Affairs
+Apply for and manage the VA benefits and services you’ve earned as a Veteran, Servicemember, or family member—like health care, disability, education, and more.
+Image
+https://www.talscale.com/blog/ultimate-guide-to-structured-interviews
+Ultimate guide to Structured Interviews | For Technical Recruiters
+Interviewing is not as easy as it seems—first impressions and “gut feeling” is not enough to make an effective hiring decision. There is always a…
+Ultimate guide to Structured Interviews | For Technical Recruiters
+https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiNoamKk9j1AhXpBaIDHauRD9QYABAFGgJsZQ&ae=2&ohost=www.google.com&cid=CAESWuD2LVK-N45bZJnK8XEPSReo0ERxtHGO8LMMxwyxeSfSILtqfMlO16i4uXQTaP-GZUPsAq8xlNas2OobVmGi2zH4evYRNsgkzd6rnOKkz9905VZKEfzm0sbEwQ&sig=AOD64_0RPQ-7jphRM7_XHfmiAeZgZzqZZw&ctype=5&q=&ved=2ahUKEwjg2aCKk9j1AhXyiIsKHS4cAr0Q9aACegQIAhBN&adurl=
+Adlibris
+Work Rules!: Insights from Inside Google That Will Transform How Yo...
+From the visionary head of Google's innovative People Operations comes a groundbreaking inquiry into the philosophy of work -- and a blueprint for attracting the most spectacular talent to your business and ensuring that they succeed. We spend more time working than doing anything else in life. It's not right that the experience of work should b...
+https://en.wikipedia.org/wiki/Laszlo_Bock
+
+
+The Tao of Programming, by Geoffrey James
+The Innovator's Dilemma, by Clayton Christensen
+Only the Paranoid Survive, by Andrew S. Grove
+
+Effective Manager
+Competing Against Time
+Business Adventures
+The Innovators Dilemma
+
+Measure What Matters
+
+https://www.mahesan.tech/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Extra stuff 
+-----------------
+
+1. Give your work meaning.
+2. Trust your people.
+3. Hire only people who are better than you.
+4. Don’t confuse development with managing performance.
+5. Focus on the two tails.
+6. Be frugal and generous.
+7. Pay unfairly.
+8. Nudge.
+9. Manage the rising expectations.
+10. Enjoy! And then go back to No. 1 and start again.
+Eric Schmidt
+
+"And just as our products can always get better, so can our hiring
+machine. We constantly review and work to balance our speed, error rate,
+and quality of experience for candidates and Googlers. For example, Todd
+Carlisle, now the HR leader for one of our business teams but at the time a
+PhD analyst on our staffing team, looked at the question of whether having
+up to twenty-five interviews per candidate was actually helpful or not. He
+found that four interviews were enough to predict whether or not we should
+hire someone with 86 percent confidence. Every additional interviewer after
+the fourth added only 1 percent more predictive power. It simply wasn’t
+worth the extra time for Google or the suffering for the candidate, so we
+implemented a “Rule of Four,” limiting the number of interviews a
+candidate could have on-site (though we allowed exceptions in certain
+cases). That change alone shaved our median time to hire to 47 days,
+compared to 90 to 180 days in the past, and has saved employees hundreds
+of thousands of hours.
+
+1. Be a good coach.
+2. Empower the team and do not micromanage.
+3. Express interest/concern for team members’ success and
+personal well-being.
+4. Be very productive/results-oriented.
+5. Be a good communicator—listen and share information.
+6. Help the team with career development.
+7. Have a clear vision/strategy for the team.
+8. Have important technical skills that help advise the team.
+-
+1. My manager gives me actionable feedback that helps me
+improve my performance.
+2. My manager does not “micromanage” (i.e., get involved in
+details that should be handled at other levels).
+3. My manager shows consideration for me as a person.
+4. My manager keeps the team focused on our priority
+results/deliverables.
+5. My manager regularly shares relevant information from
+his/her manager and senior leadership.
+6. My manager has had a meaningful discussion with me about
+my career development in the past six months.
+7. My manager communicates clear goals for our team.
+8. My manager has the technical expertise (e.g., coding in Tech,
+accounting in Finance) required to effectively manage me.
+9. I would recommend my manager to other Googlers.
+Fortunately, there’s a much better approach to measuring the results of
+learning programs, and like many great people-management ideas, it’s not a
+new one. In 1959, Donald Kirkpatrick, who was a professor at the
+University of Wisconsin and past president of the American Society for
+Training and Development, came up with a model that prescribed four
+levels of measurement in learning programs: reaction, learning, behavior,
+
+1. Have a role-and-responsibilities discussion.
+2. Match your Noogler with a peer buddy.
+3. Help your Noogler build a social network.
+4. Set up onboarding check-ins once a month for your Noogler’s first
+six months.
+5. Encourage open dialogue.
+Image
+1. Ask questions, lots of questions!
+2. Schedule regular 1:1s with your manager.
+3. Get to know your team.
+4. Actively solicit feedback—don’t wait for it!
+5. Accept the challenge (i.e., take risks and don’t be afraid to fail…
+other Googlers will support you).
+
+"The best predictor of how someone will perform in a job is a work
+sample test (29 percent). This entails giving candidates a sample piece of
+work, similar to that which they would do in the job, and assessing their
+performance at it. Even this can’t predict performance perfectly, since
+actual performance also depends on other skills, such as how well you
+collaborate with others, adapt to uncertainty, and learn. And worse, many
+jobs don’t have nice, neat pieces of work that you can hand to a candidate.
+You can (and should) offer a work sample test to someone applying to work
+in a call center or to do very task-oriented work, but for many jobs there are
+too many variables involved day-to-day to allow the construction of a
+representative work sample.
+All our technical hires, whether in engineering or product management,
+go through a work sample test of sorts, where they are asked to solve
+engineering problems during the interview. According to Urs Hölzle, “We
+do our interviewing based on really testing your skills. Like, write some
+code, explain this thing, right? Not look at your resume, but really see what
+you can do.” Eric Veach adds, “The interviews are done [by] a large swath
+of engineers who ask a lot of very data-oriented kinds of questions. They’re
+not just, you know, ‘Tell me about a time when…’ They’re more like,
+‘Write me an algorithm to do this.’ ”
+The second-best predictors of performance are tests of general cognitive
+ability (26 percent). In contrast to case interviews and brainteasers, these
+are actual tests with defined right and wrong answers, similar to what you
+might find on an IQ test. They are predictive because general cognitive
+ability includes the capacity to learn, and the combination of raw
+intelligence and learning ability will make most people successful in most
+jobs. The problem, however, is that most standardized tests of this type
+discriminate against non-white, non-male test takers (at least in the United
+States). The SAT consistently underpredicts how women and non-whites
+will perform in college. Phyllis Rosser’s 1989 study of the SAT compared
+high school girls and boys of comparable ability and college performance,
+and found that the girls scored lower on the SAT than the boys.86 Reasons
+why include the test format (there is no gender gap on Advanced Placement
+tests, which use short answers and essays instead of multiple choice); test
+scoring (boys are more likely to guess after eliminating one possible
+answer, which improves their scores); and even the content of questions
+(“females did better on SAT questions about relationships, aesthetics, and
+the humanities, while males did better on questions about sports, the
+physical sciences, and business”).xxiv These kinds of studies have been
+repeated multiple times, and while standardized tests of this sort have
+gotten better, they are still not great.xxv
+As a proof point, Pitzer College, a liberal arts college in Southern
+California, made reporting test scores optional for applicants who had at
+least a 3.5 grade point average (GPA) or were in the top 10 percent of their
+high school classes. Since then, their average admitted-student GPA has
+grown 8 percent and they’ve had a 58 percent increase in students of
+color.
+88
+Tied with tests of general cognitive ability are structured interviews (26
+percent), where candidates are asked a consistent set of questions with clear
+criteria to assess the quality of responses. Structured interviews are used all
+the time in survey research. The idea is that any variation in candidate
+assessment is a result of the candidate’s performance, not because an
+interviewer has higher or lower standards, or asks easier or harder
+questions.
+There are two kinds of structured interviews: behavioral and situational.
+Behavioral interviews ask candidates to describe prior achievements and
+match those to what is required in the current job (i.e., “Tell me about a
+time…?”). Situational interviews present a job-related hypothetical
+situation (i.e., “What would you do if…?”). A diligent interviewer will
+probe deeply to assess the veracity and thought process behind the stories
+told by the candidate.
+Structured interviews are predictive even for jobs that are themselves
+unstructured. We’ve also found that they cause both candidates and
+interviewers to have a better experience and are perceived to be most fair.
+89
+So why don’t more companies use them? Well, they are hard to develop:
+You have to write them, test them, and make sure interviewers stick to
+them. And then you have to continuously refresh them so candidates don’t
+compare notes and come prepared with all the answers. It’s a lot of work,
+but the alternative is to waste everyone’s time with a typical interview that
+is either highly subjective, or discriminatory, or both.
+There is a better way. Research shows that combinations of assessment
+techniques are better than any single technique. For example, a test of
+general cognitive ability (predicts 26 percent of performance), when
+combined with an assessment of conscientiousness (10 percent), is better
+able to predict who will be successful in a job (36 percent). My experience
+is that people who score high on conscientiousness “work to completion”—
+meaning they don’t stop until a job is done rather than quitting at good
+enough—and are more likely to feel responsibility for their teams and the
+environment around them. In other words, they are more likely to act like
+owners rather than employees. I remember being floored when Josh
+O’Brien, a member of our tech-support team, was helping me with an IT
+issue in my first month or so. It was a Friday, and when five o’clock rolled
+around I told him we could finish on Monday. “That’s okay. We work to
+completion,” he told me, and kept at it until my problem was resolved.90
+So what assessment techniques do we use?
+The goal of our interview process is to predict how c"
+
+
