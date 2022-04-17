@@ -74,10 +74,7 @@ data structures
 algorithms
 grokking algorithms
 --> data structures
-Terracraft — 10/05/2021
-stock
-signon
-Terracraft — 10/05/2021
+
 Programming Interview Exposed
 Cracking The Coding Interview
 There are many ways to learn how to program, the ways i suggest here might not work for you, i suggest you try it, and if you don't enjoy it, or learn from it, try it a different way. Just don't give up
@@ -120,7 +117,7 @@ https://www.interviewbit.com/mock-interview/
 InterviewBit
 Free and Anonymous Mock Interviews
 Practice. Get Confident. Get hired
-Image
+
 https://www.pramp.com/
 
 https://techpays.eu/
@@ -208,6 +205,7 @@ are necessary to achieve it? Should you visualize what you might gain
 from achieving a goal or what you might lose by failing to achieve it? It
 turns out that depending on the type of goal, different ways of mentally
 framing the goal can significantly affect your chances for success.
+
 Recommended Blogs To Follow
 http://www.theeffectiveengineer.com/. The Effective Engineer is my
 personal blog, where I write about engineering habits, productivity tips,
@@ -236,9 +234,7 @@ http://pgbovine.net/. Philip Guo, a computer science professor, has written
 extensively and openly about his graduate school and work experiences
 
 
-
 https://sv.wikipedia.org/wiki/Tidskomplexitet#/media/Fil:Comparison_computational_complexity.svg
-Tidskomplexitet
 Inom datavetenskapen är tidskomplexitet beräkningskomplexiteten för en algoritm mätt i tid.
 Tidskomplexitet beräknas genom att man estimerar tidskostnaden för de elementära operationer som krävs i en algoritm. Vanligtvis beror antalet steg på hur stort problemstorleken är, det vill säga indatastorlek, varför man uttrycker tidskomplexitet som en...
 Tidskomplexitet
@@ -254,41 +250,24 @@ https://www.sluholding.se/en/forskare-blog/374-laerarundantaget-academic-staff-s
 TEACHERS´ EXEMPTION (LÄRARUNDANTAGET ) - Academic staff’s intellect...
 LÄRARUNDANTAGET - Academic staff’s intellectual property rights
 https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/
-Joel on Software
-Joel Spolsky
 The Joel Test: 12 Steps to Better Code
-Have you ever heard of SEMA? It’s a fairly esoteric system for measuring how good a software team is. No, wait! Don’t follow that link! It will take you about six years just to understa…
-Image
 http://www.netmeg.net/
 The Computer Jargon Dictionary
 Computer Jargon Dictionary
 https://www.joelonsoftware.com/2007/10/26/evidence-based-scheduling/
-
-
 https://dev.to/
-
 https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397
-
 Cherno on youtube
-
-
 https://www.youtube.com/watch?v=Zc54gFhdpLA&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=2
-
-
 https://karadev.net/uroci/filespdf/files/a%20book%20on%20c.pdf
 https://en.wikipedia.org/wiki/The_C_Programming_Language
-The C Programming Language
-The C Programming Language (sometimes termed K&R, after its authors' initials) is a computer programming book written by Brian Kernighan and Dennis Ritchie, the latter of whom originally designed and implemented the language, as well as co-designed the Unix operating system with which development of the language was closely intertwined. The boo...
-The C Programming Language
 https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628
 https://www.google.com/search?q=operating+system+design+and+implementation+book&oq=operating+system+design+and+implementation+book&aqs=chrome..69i57j0i22i30l9.7982j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=moris+bach+the+design+of+the+unix+operating+system&oq=moris+bach+the+design+of+the+unix+operating+system&aqs=chrome..69i57j0i22i30.5423j0j7&sourceid=chrome&ie=UTF-8
 https://www.amazon.com/Design-UNIX-Operating-System/dp/0132017997
 http://160592857366.free.fr/joe/ebooks/ShareData/Design%20of%20the%20Unix%20Operating%20System%20By%20Maurice%20Bach.pdf
-Terracraft — 05/09/2021
 https://www.cs.helsinki.fi/u/kerola/tikra/s2000/luennot/transm_p2.pdf
 https://www.cs.helsinki.fi/u/kerola/artikkelit/crusoe/transmeta.html
-
 https://www.amazon.com/Senior-Software-Engineer-Practices-Effective/dp/0990702804
 The Senior Software Engineer: 11 Practices of an Effective Technica...
 The Senior Software Engineer: 11 Practices of an Effective Technical Leader: 9780990702801: Computer Science Books @ Amazon.com
@@ -297,9 +276,8 @@ Amazon.com: The Manager's Path: A Guide for Tech Leaders Navigating...
 Amazon.com: The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change (9781491973899): Fournier, Camille: Books
 https://www.amazon.com/Software-Engineering-Google-Lessons-Programming/dp/1492082791/ref=pd_sbs_3/136-9912945-1580412?pd_rd_w=wx09O&pf_rd_p=3676f086-9496-4fd7-8490-77cf7f43f846&pf_rd_r=EJ03NDS31FDZ4GTKD9P7&pd_rd_r=a45dbd8a-325e-453b-b7c4-87cdb0aef076&pd_rd_wg=x0se3&pd_rd_i=1492082791&psc=1
 Software Engineering at Google: Lessons Learned from Programming Ov...
-Software Engineering at Google: Lessons Learned from Programming Over Time [Winters, Titus, Manshreck, Tom, Wright, Hyrum] on Amazon.com. *FREE* shipping on qualifying offers. Software Engineering at Google: Lessons Learned from Programming Over Time
+Software Engineering at Google: Lessons Learned from Programming Over Time [Winters, Titus, Manshreck, Tom, Wright, Hyrum] on Amazon.com.
 https://www.amazon.com/Staff-Engineer-Leadership-beyond-management/dp/1736417916/ref=pd_sbs_2/136-9912945-1580412?pd_rd_w=wx09O&pf_rd_p=3676f086-9496-4fd7-8490-77cf7f43f846&pf_rd_r=EJ03NDS31FDZ4GTKD9P7&pd_rd_r=a45dbd8a-325e-453b-b7c4-87cdb0aef076&pd_rd_wg=x0se3&pd_rd_i=1736417916&psc=1
-
 
 effective engineer, was a book about how to make the best use of your time as a engineer, use leverage to cause greater impact, support your team and you in the same process, be part of the success. Ease onboarding progress, how interview processe can be improved. What kind of problems should you tackle, when & how you should automate, the process vs decision making (batch scripts), running simple scripts regularly to catch problems early on. Have enough time to run scripts say 5-10 minutes. And do check ups with longer intervals.
 invest in the teams
@@ -313,7 +291,7 @@ learn how to allocate time properly for products
 break down the time
 do procedural rewrites/refactoring, instead of doing it all out at once. Best is to incorporate the old and the new at the same time.
 Working in teams, and in a company with more people there's more resources to tackle different problems of different sizes
--
+
 peopleware
 team geek
 high output management
@@ -341,8 +319,7 @@ individual engineer -
 senior, team
 principle, industry
 SUCCESS
--116 OS book
-— 07/24/2021
+
 write or tools that you build. Here are some strategies:
 Avoid one-person teams.
 Review each other’s code and software designs.
@@ -362,13 +339,13 @@ minutes down to seconds. Learn basic commands like , , , ,
 arbitrarily powerful transformations. Read through helpful documentation
 in the pages for a command if you’re not sure what it does. Pick up or
 bookmark some useful one-liners.
-2
+
 
 data structures
 algorithms
 grokking algorithms
 --> data structures
-— 10/05/2021
+
 Programming Interview Exposed
 Cracking The Coding Interview
 
@@ -411,7 +388,7 @@ The first is a "The C++ Programming Language" book - I used it a lot early on wh
 I am a student rn, and my first programming book was java by dietel and dietel, that belonged to my dad :)
 Code Complete, 2nd Edition by Steve McConnell)
 The Asshole Survival Guide: How to Deal with People Who Treat You Like Dirt", Penguin, 2018. -
-Terracraft — 01/01/2022
+ — 01/01/2022
 : The Richest Man in Babylon by George Samuel Clason,
  The Millionaire Fastlane by MJ DeMarco and The Simple Path to Wealth by JL Collins.
 The Richest man in Babylon, The greatest salesman in the world and The Monk who sold his ferrari is the package that doesn't leave a person the same if carefully listened and meditated upon. As TD Jakes said, " There is nothing more dangerous than a changed and a made up mind" this is treasure unfolded.
@@ -428,7 +405,7 @@ https://www.geeksforgeeks.org/google-interview-preparation-for-software-engineer
 GeeksforGeeks
 Google Interview Preparation For Software Engineer - A Complete Gui...
 A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions.
-Image
+
 https://www.mtu.edu/career/students/networking/interviews/prepare.pdf
 In 1998, Frank Schmidt and John Hunter published a meta-analysis of 85 years of research on how well assessments predict performance. They looked at 19 different assessment techniques and found that typical, unstructured job interviews were pretty bad at predicting how someone would perform once hired.
 
@@ -436,11 +413,7 @@ Unstructured interviews have an r2 of 0.14, meaning that they can explain only 1
 
 The best predictor of how someone will perform in a job is a work sample test (29 percent). This entails giving candidates a sample piece of work, similar to that which they would do in the job, and assessing their performance at it. Even this can’t predict performance perfectly, since actual performance also depends on other skills, such as how well you collaborate with others, adapt to uncertainty, and learn.
 
-Expand
-message.txt
-14 KB
 https://www.wired.com/2015/04/hire-like-google/
-Wired
 Here's Google's Secret to Hiring the Best People
 People tend to make snap judgments when they're interviewing job candidates. The problem is, these predictions from the first 10 seconds are useless.
 Here's Google's Secret to Hiring the Best People
@@ -448,17 +421,16 @@ https://www.geeksforgeeks.org/google-interview-preparation-for-software-engineer
 GeeksforGeeks
 Google Interview Preparation For Software Engineer - A Complete Gui...
 A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions.
-Image
 https://www.mtu.edu/career/students/networking/interviews/prepare.pdf
 https://rework.withgoogle.com/guides/hiring-use-structured-interviewing/steps/introduction/
 re:Work -  Guide: Use structured interviewing
 Using consistent questions and grading rubrics can improve the candidate experience and be predictive of future performance.
-Image
+
 https://hiring.workopolis.com/article/what-google-has-learned-about-hiring/
 Workopolis Hiring
 6 hiring lessons from Google that every small business needs to kno...
 Google's recruitment tactics are as renowned as its nap pods. Take your SMB hiring up a notch – or higher – with these six hiring lessons from Google.
-Image
+
 https://www.businessinsider.com/google-laszlo-bock-interview-questions-2015-4?r=US&IR=T
 Business Insider
 Google HR boss says asking these questions will instantly improve y...
@@ -468,7 +440,7 @@ Google HR boss says asking these questions will instantly improve y...
 https://www.va.gov/PBI/Questions.asp
 VA.gov | Veterans Affairs
 Apply for and manage the VA benefits and services you’ve earned as a Veteran, Servicemember, or family member—like health care, disability, education, and more.
-Image
+
 https://www.talscale.com/blog/ultimate-guide-to-structured-interviews
 Ultimate guide to Structured Interviews | For Technical Recruiters
 Interviewing is not as easy as it seems—first impressions and “gut feeling” is not enough to make an effective hiring decision. There is always a…
@@ -578,7 +550,7 @@ levels of measurement in learning programs: reaction, learning, behavior,
 4. Set up onboarding check-ins once a month for your Noogler’s first
 six months.
 5. Encourage open dialogue.
-Image
+
 1. Ask questions, lots of questions!
 2. Schedule regular 1:1s with your manager.
 3. Get to know your team.
@@ -674,5 +646,4 @@ around I told him we could finish on Monday. “That’s okay. We work to
 completion,” he told me, and kept at it until my problem was resolved.90
 So what assessment techniques do we use?
 The goal of our interview process is to predict how c"
-
 
