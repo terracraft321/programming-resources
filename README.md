@@ -1,4 +1,14 @@
+
 # programming-resources
+1. Programming fundamentals (thenewboston, cherno, programming fundamentals (loops, if else, breaks, switch statements etc) vars... Funcs.. 
+2. Projects
+(DS and algos) 
+3. Leetcode, grokking, algoexpert, nick white, neetcode, firecode 
+4. Apply for Jobs, always be looking (http new link, networking, events, meet people, tailor resume to job, star method, focus on hard technical skills and impact) 
+5. Mock interviews, always use whiteboard or pen and paper to write out code.
+6. Practice your weaknesses, and time yourself. Check solution to problem if it takes longer than 45 minutes to figure out and try it again. Repeat.
+7. System design interviews, continious development, test driven development.
+
 
 https://github.com/jwasham/coding-interview-university
 
