@@ -1,3 +1,5 @@
+Extra resource, thanks cripd0night#6573:
+https://docs.google.com/spreadsheets/d/1Jhy88tAln0_NmONsckszB6N6y44xMFGV5Dc4WxBY4Lc/edit?usp=sharing
 
 # programming-resources
 1. Programming fundamentals (thenewboston, cherno, programming fundamentals (loops, if else, breaks, switch statements etc) vars... Funcs.. 
